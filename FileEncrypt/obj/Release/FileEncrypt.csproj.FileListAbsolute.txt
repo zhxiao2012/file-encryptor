@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\bin\Release\FileEncrypt.exe.config
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\bin\Release\FileEncrypt.exe
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\bin\Release\FileEncrypt.pdb
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.formFileEnc.resources
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.exe
+C:\Users\Administrator\source\repos\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.pdb

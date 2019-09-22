@@ -35,6 +35,8 @@
             this.textFile = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.Decrypt = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Browse
@@ -100,11 +102,31 @@
             this.Decrypt.UseVisualStyleBackColor = true;
             this.Decrypt.Click += new System.EventHandler(this.Decrypt_Click);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(26, 9);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(383, 12);
+            this.label3.TabIndex = 8;
+            this.label3.Text = "Encrypt fiel by TripleDES, the output file name is with an \'_\'.";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(26, 97);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(311, 12);
+            this.label4.TabIndex = 9;
+            this.label4.Text = "The same key should be used to encrypt and decrypt.";
+            // 
             // formFileEnc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(554, 128);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.Decrypt);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textFile);
@@ -127,6 +149,8 @@
         private System.Windows.Forms.TextBox textFile;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button Decrypt;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
